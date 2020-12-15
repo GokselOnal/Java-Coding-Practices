@@ -15,6 +15,6 @@ public class StringDivider {
 
     public static void main(String[] args) {
 
-        System.out.println(divide("ABCD","EFGH"));
+        System.out.println(divide("ABCD","EFGH")); // -> ABCD EFGH AE AF AG AH BE BF BG BH CE CF CG CH DE DF DG DH
     }
 }

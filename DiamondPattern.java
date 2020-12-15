@@ -19,6 +19,16 @@ public class DiamondPattern {
                 System.out.print(i);
             }
             System.out.println();
+            /*-> 1
+                222
+               33333
+              4444444
+             555555555
+              4444444
+               33333
+                222
+                 1
+                   */
         }
     }
 }

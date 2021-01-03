@@ -4,7 +4,7 @@ public class PassFail {
     static Scanner console = new Scanner(System.in);
 
     static boolean isPass(double mt, double f, double proj){
-        double overall = mt*0.3 + f*0.5 + proj*0.5;
+        double overall = mt*0.3 + f*0.2 + proj*0.5;
 
         return overall > 50;
     }
